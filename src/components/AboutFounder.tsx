@@ -28,7 +28,7 @@ export default function AboutFounder() {
               <div className="relative overflow-hidden rounded-2xl shadow-2xl shadow-black/10">
                 <div className="aspect-[3/4]">
                   <img
-                    src="/images/founder.jpg"
+                    src="https://github.com/kd54726/Renuka-Events/blob/main/public/images/founder.jpg?raw=true"
                     alt="Renuka - Founder of Renuka Arts & Events"
                     className="h-full w-full object-cover"
                   />

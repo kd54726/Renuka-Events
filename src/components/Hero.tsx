@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src="/images/hero-wedding.jpg"
+          src="https://github.com/kd54726/Renuka-Events/blob/main/public/images/hero-wedding.jpg?raw=true"
           alt="Luxury wedding ceremony"
           className="h-full w-full object-cover"
         />

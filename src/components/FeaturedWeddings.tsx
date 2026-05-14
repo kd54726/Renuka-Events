@@ -4,21 +4,21 @@ import SectionHeading from './SectionHeading';
 
 const weddings = [
   {
-    image: '/images/wedding1.jpg',
+    image: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/wedding1.jpg?raw=true',
     couple: 'Priya & Arjun',
     venue: 'Taj Palace, Udaipur',
     style: 'Royal Heritage Wedding',
     description: 'A three-day celebration at one of India\'s most iconic palaces, blending royal Rajasthani traditions with contemporary luxury.',
   },
   {
-    image: '/images/wedding2.jpg',
+    image: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/wedding2.jpg?raw=true',
     couple: 'Meera & Karan',
     venue: 'W Goa, Vagator',
     style: 'Destination Beach Wedding',
     description: 'An intimate seaside ceremony with 200 guests, featuring sunset vows, bohemian-chic decor, and a starlit sangeet night.',
   },
   {
-    image: '/images/wedding3.jpg',
+    image: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/wedding3.jpg?raw=true',
     couple: 'Ananya & Vikram',
     venue: 'ITC Grand Bharat, Gurugram',
     style: 'Grand Indian Celebration',

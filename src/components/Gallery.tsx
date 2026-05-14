@@ -3,15 +3,15 @@ import SectionHeading from './SectionHeading';
 import AnimatedSection from './AnimatedSection';
 
 const galleryImages = [
-  { src: '/images/hero-wedding.jpg', alt: 'Grand mandap decoration', span: 'tall' },
-  { src: '/images/wedding1.jpg', alt: 'Luxury reception setup', span: 'normal' },
-  { src: '/images/gallery1.jpg', alt: 'Bridal entry with sparklers', span: 'normal' },
-  { src: '/images/gallery2.jpg', alt: 'Table decor centerpiece', span: 'tall' },
-  { src: '/images/wedding2.jpg', alt: 'Beach destination wedding', span: 'normal' },
-  { src: '/images/gallery3.jpg', alt: 'Floral mandap from above', span: 'normal' },
-  { src: '/images/gallery4.jpg', alt: 'First dance under lights', span: 'tall' },
-  { src: '/images/wedding3.jpg', alt: 'Grand stage decoration', span: 'normal' },
-  { src: '/images/gallery5.jpg', alt: 'Palace courtyard ceremony', span: 'normal' },
+  { src: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/hero-wedding.jpg?raw=true', alt: 'Grand mandap decoration', span: 'tall' },
+  { src: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/wedding1.jpg?raw=true', alt: 'Luxury reception setup', span: 'normal' },
+  { src: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/gallery1.jpg?raw=true', alt: 'Bridal entry with sparklers', span: 'normal' },
+  { src: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/gallery2.jpg?raw=true', alt: 'Table decor centerpiece', span: 'tall' },
+  { src: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/wedding2.jpg?raw=true', alt: 'Beach destination wedding', span: 'normal' },
+  { src: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/gallery3.jpg?raw=true', alt: 'Floral mandap from above', span: 'normal' },
+  { src: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/gallery4.jpg?raw=true', alt: 'First dance under lights', span: 'tall' },
+  { src: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/wedding3.jpg?raw=true', alt: 'Grand stage decoration', span: 'normal' },
+  { src: 'https://github.com/kd54726/Renuka-Events/blob/main/public/images/gallery5.jpg?raw=true', alt: 'Palace courtyard ceremony', span: 'normal' },
 ];
 
 export default function Gallery() {

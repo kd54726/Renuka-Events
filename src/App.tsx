@@ -20,7 +20,7 @@ export default function App() {
       <TrustStrip />
       <FeaturedWeddings />
       <ParallaxDivider
-        image="/images/gallery4.jpg"
+        image="https://github.com/kd54726/Renuka-Events/blob/main/public/images/gallery4.jpg?raw=true"
         quote="A wedding is not just a day, it's the beginning of a beautiful forever"
         author="Renuka"
       />
@@ -28,7 +28,7 @@ export default function App() {
       <Services />
       <Testimonials />
       <ParallaxDivider
-        image="/images/gallery5.jpg"
+        image="https://github.com/kd54726/Renuka-Events/blob/main/public/images/gallery5.jpg?raw=true"
         quote="In every detail, there is love. In every moment, there is magic."
       />
       <Gallery />
